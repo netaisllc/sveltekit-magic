@@ -1,3 +1,12 @@
+# Code Sample for Magic Build Issue
+
+1. Clone project.
+2. Install dependencies.
+3. `npm run build` or `npm run preview`
+4. Observe build error.
+
+Based on:
+
 # sveltekit-magic
 
 This is a demo application for using [Magic](https://magic.link/) auth with SvelteKit. Magic provides secure, passwordless authentication for your application.
